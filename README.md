@@ -4,6 +4,7 @@ I build software that automates customs brokerage operations at **Agiloc Interna
 turning manual, PDF-heavy filing workflows into web apps and AI-assisted tools.
 
 🎓 University of Southern California, B.S. Industrial & Systems Engineering, 2026
+
 🌐 **Portfolio:** [calistasuherman.github.io](https://calistasuherman.github.io)
 
 ## Featured work
