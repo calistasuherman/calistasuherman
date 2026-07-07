@@ -1,6 +1,6 @@
 # Hi, I'm Calista 👋
 
-I build software that automates customs brokerage operations at **Agiloc International** —
+I build software that automates customs brokerage operations at **Agiloc International**,
 turning manual, PDF-heavy filing workflows into web apps and AI-assisted tools.
 
 🎓 University of Southern California — B.S. Industrial & Systems Engineering, 2026
