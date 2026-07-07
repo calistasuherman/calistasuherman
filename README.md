@@ -1,4 +1,4 @@
-# Hi, I'm Calista 👋
+# Hi, I'm Calista!
 
 I build software that automates customs brokerage operations at **Agiloc International**,
 turning manual, PDF-heavy filing workflows into web apps and AI-assisted tools.
